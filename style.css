@@ -1,0 +1,22 @@
+.container {
+  margin: 20px auto;
+  text-align: center;
+}
+
+body {
+  font-family: 'Gloria Hallelujah', cursive;
+  background: #F8E3AA;
+}
+
+button {
+  background-color: #F97218;
+  border:solid 3px #F9BC5C;
+  color: black;
+  height: 500px;
+  width: 100px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
